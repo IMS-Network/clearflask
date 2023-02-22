@@ -43,7 +43,7 @@
     "@sentry/node": "7.34.0",
     "@sentry/react": "7.34.0",
     "@sentry/tracing": "7.34.0",
-    "@stripe/react-stripe-js": "1.1.2",
+    "@stripe/react-stripe-js": "1.16.4",
     "@stripe/stripe-js": "1.46.0",
     "@types/classnames": "2.2.7",
     "@types/crypto-js": "3.1.43",

@@ -63,7 +63,7 @@
     "@types/prismjs": "1.16.0",
     "@types/react": "17.0.53",
     "@types/react-beautiful-dnd": "13.0.0",
-    "@types/react-dom": "16.8.2",
+    "@types/react-dom": "16.9.17",
     "@types/react-google-recaptcha": "1.1.1",
     "@types/react-motion": "0.0.28",
     "@types/react-redux": "7.1.8",

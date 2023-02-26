@@ -45,7 +45,7 @@
         <frontend-maven-plugin.version>1.12.1</frontend-maven-plugin.version>
         <pnpm.version>v7.12.1</pnpm.version>
         <license-maven-plugin.version>4.1</license-maven-plugin.version>
-        <projectlombok.version>1.18.24</projectlombok.version>
+        <projectlombok.version>1.18.26</projectlombok.version>
         <twelvemonkeys.version>3.9.4</twelvemonkeys.version>
         <batik.version>1.16</batik.version>
         <!-- Kik Ice fails with 1.11+ due to InvocationHandlerAdapter method signature change -->

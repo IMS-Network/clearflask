@@ -1,4 +1,4 @@
-FROM node:14.15.1-slim
+FROM node:fermium-bullseye-slim
 EXPOSE 80 3000
 WORKDIR /srv/clearflask-connect
 CMD ./start.sh

@@ -290,7 +290,7 @@
                 <plugin>
                     <groupId>io.fabric8</groupId>
                     <artifactId>docker-maven-plugin</artifactId>
-                    <version>0.36.1</version>
+                    <version>0.42.0</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
@@ -696,6 +696,13 @@
                 <artifactId>libsqlite4java-linux-amd64</artifactId>
                 <version>${sqlite4java}</version>
                 <type>so</type>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>io.github.ganadist.sqlite4java</groupId>
+                <artifactId>libsqlite4java-osx-aarch64</artifactId>
+                <version>${sqlite4java}</version>
+                <type>dylib</type>
                 <scope>test</scope>
             </dependency>
             <dependency>

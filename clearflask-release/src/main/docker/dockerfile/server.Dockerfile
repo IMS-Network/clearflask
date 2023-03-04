@@ -1,4 +1,4 @@
-FROM tomcat:8-jdk17-corretto-al2
+FROM tomcat:9.0.71-jdk11-corretto
 EXPOSE 8080
 # JMX
 EXPOSE 9950

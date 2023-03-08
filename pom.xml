@@ -28,7 +28,7 @@
         <!-- Last recommended version cross compatible for OpenSearch and ElasticSearch
              https://opensearch.org/docs/latest/clients/index/ -->
         <elasticsearch.version>7.17.8</elasticsearch.version>
-        <lucene.version>8.8.2</lucene.version>
+        <lucene.version>8.11.2</lucene.version>
         <!-- 3.16 is last minor version supporting Java 11 -->
         <jooq.version>3.17.7</jooq.version>
         <ice.version>1.0.8</ice.version>

@@ -38,7 +38,7 @@
              https://github.com/oracle/oci-java-sdk/issues/78 -->
         <jersey.version>3.1.1</jersey.version>
         <awssdk.version>1.12.75</awssdk.version>
-        <hk2.version>2.5.0-b62</hk2.version>
+        <hk2.version>2.6.1</hk2.version>
         <jjwt.version>0.11.2</jjwt.version>
         <sqlite4java>1.0.392</sqlite4java>
         <node.version>v14.15.1</node.version>

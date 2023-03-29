@@ -51,8 +51,8 @@
         <bytebuddy.version>1.10.22</bytebuddy.version>
         <bouncycastle.version>1.70</bouncycastle.version>
         <githubReleaseVersion>${project.version}</githubReleaseVersion>
-        <skipTests />
-        <skipITs />
+        <skipTests/>
+        <skipITs/>
         <skipLicenseUpdate>true</skipLicenseUpdate>
     </properties>
 
@@ -756,7 +756,7 @@
             <dependency>
                 <groupId>com.stripe</groupId>
                 <artifactId>stripe-java</artifactId>
-                <version>20.26.0</version>
+                <version>20.136.0</version>
             </dependency>
             <dependency>
                 <groupId>org.kill-bill.billing</groupId>

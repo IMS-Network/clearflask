@@ -51,8 +51,8 @@
         <bytebuddy.version>1.10.22</bytebuddy.version>
         <bouncycastle.version>1.70</bouncycastle.version>
         <githubReleaseVersion>${project.version}</githubReleaseVersion>
-        <skipTests />
-        <skipITs />
+        <skipTests/>
+        <skipITs/>
         <skipLicenseUpdate>true</skipLicenseUpdate>
     </properties>
 
@@ -730,7 +730,7 @@
             <dependency>
                 <groupId>javax.validation</groupId>
                 <artifactId>validation-api</artifactId>
-                <version>2.0.0.Final</version>
+                <version>2.0.1.Final</version>
             </dependency>
             <dependency>
                 <groupId>org.glassfish.jersey.core</groupId>
